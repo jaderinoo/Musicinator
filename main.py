@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from py7zr import unpack_7zarchive
 import shutil
 import os
